@@ -1,0 +1,58 @@
+{
+  "name" : "second level",
+  "data": [{
+     "name" : "test",
+    "type": "ColliderObject",
+    "image" : "assets/images/big_plate.png",
+    "x": -1,
+    "y": 100,
+    "with": 102,
+    "heigth": 15,
+    "calculedWithMiddle" : false,
+    "players": [{
+      "type": "user",
+      "x": 10
+    }]
+  }, {
+    "name" : "test",
+    "type": "ColliderObject",
+    "image" : "assets/images/big_plate.png",
+    "x": 20,
+    "y": 50,
+    "with": 30,
+    "heigth": 7,
+    "calculedWithMiddle" : true,
+    "players": [{
+      "type": "enemy",
+      "x": 20,
+      "image" : "assets/images/sheep_mini.png",
+      "width": 60,
+      "heigth": 60
+    }, {
+      "type": "enemy",
+      "x": 50,
+      "image" : "assets/images/sheep_mini.png",
+      "width": 60,
+      "heigth": 60
+    }]
+  },
+  {
+    "name" : "test",
+    "type": "ColliderObject",
+    "image" : "assets/images/big_plate.png",
+    "x": 80,
+    "y": 70,
+    "with": 15,
+    "heigth": 7,
+    "calculedWithMiddle" : true,
+    "players": [{
+      "type": "enemy",
+      "x": 50,
+      "image" : "assets/images/sheep_mini.png",
+      "width": 60,
+      "heigth": 60
+    }]
+  }
+
+  ]
+}

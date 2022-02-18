@@ -1,0 +1,28 @@
+
+
+
+
+get music loops
+http://soundimage.org
+http://photodune.net/?osr=tn&_ga=1.226664669.1565696851.1427984045
+http://audiojungle.net/?osr=tn&_ga=1.187869416.1565696851.1427984045
+
+
+//Good tuts to follow
+https://coronalabs.com/blog/2013/05/28/tutorial-goodbye-globals/
+https://coronalabs.com/blog/2014/08/12/tutorial-building-a-level-selection-scene/
+https://coronalabs.com/blog/2013/04/02/cleaning-up-display-objects-andlisteners/
+https://coronalabs.com/blog/2012/03/27/storyboard-scene-events-explained/
+
+
+
+//blog with scenas to pause elements
+http://www.christianpeeters.com/corona-sdk/stop-your-game-when-your-object-is-stuck-by-the-physics-engine-in-corona-sdk/
+
+
+//corona more modules and templates
+http://code.coronalabs.com/code?sort_by=created_1&sort_order=DESC&items_per_page=40
+
+// infinte loop to animate enemies
+https://gist.github.com/akshada-systematix/704aa2224c009115c17c
+
