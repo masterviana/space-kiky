@@ -1,0 +1,10 @@
+<script>
+    // This file is required to get the user agent for iOS
+    window.onload = function() {
+        userAgent = encodeURIComponent(navigator.userAgent)
+        alreadyLoaded = document.URL.indexOf("userAgent") > -1
+        if (!alreadyLoaded) {
+             window.location.assign(document.URL+"?userAgent="+userAgent)
+        }
+    }
+</script>

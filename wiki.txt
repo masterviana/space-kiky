@@ -1,0 +1,7 @@
+
+Next steps :
+
+1. Concluir um nivel por tempo, se nao ganhar nem perder o jogo deve terminar.
+2. Quando o user terminar um nivel calcular as estrela baseadas no tempo
+3. Gravar o resolvado do nivel na cache interna da app, e desbloquear niveis e tipos de niveis seguintes
+4. Terminar o nivel e fazer entrar os bonus no calculo da pontuação.

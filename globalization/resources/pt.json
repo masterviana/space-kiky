@@ -1,0 +1,19 @@
+{
+  "main_scree" : {
+    "play_game" : "Carreira",
+    "runless"   : "Modo Infinito",
+    "options"   : "Opções"
+  },
+  "levels_selector" : {
+
+  },
+  "game_scene" : {
+
+  },
+  "options" : {
+
+  },
+  "level_end" : {
+
+  }
+}
